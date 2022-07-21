@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://docdro.id/nCLN3mI](https://docdro.id/nCLN3mI)
 
-- ⚡ Fun fact **I love making music. Check out my Soundcloud! :)**
+- ⚡ Fun fact **I love making music. Check out my Soundcloud! [https://soundcloud.com/altadata](https://soundcloud.com/altadata) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
