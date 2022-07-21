@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bogdan</h1>
+<h1 align="center">👋 Hi, I'm Bogdan</h1>
 <h3 align="center">A software engineer based in Bucharest, Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdanc64&label=Profile%20views&color=0e75b6&style=flat" alt="bogdanc64" /> </p>
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://docdro.id/nCLN3mI](https://docdro.id/nCLN3mI)
 
-- ⚡ Fun fact **I love making music. Check out my Soundcloud!** [https://soundcloud.com/altadata](https://soundcloud.com/altadata)
+- ⚡ Fun fact **I love making music. Check out my Soundcloud! [https://soundcloud.com/altadata](https://soundcloud.com/altadata) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
